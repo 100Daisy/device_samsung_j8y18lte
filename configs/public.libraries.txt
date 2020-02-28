@@ -1,0 +1,14 @@
+libOpenCL.so
+libOpenCv.camera.samsung.so
+libSEF.quram.so
+libadsprpc.so
+libcdsprpc.so
+libfastcvopt.so
+libhal.wsm.samsung.so
+libnpu.so
+libqti-perfd-client.so
+libremotedesktop_client.knox.samsung.so
+libsdsprpc.so
+libsmart_cropping.camera.samsung.so
+libsomp.camera.samsung.so
+libxcv.camera.samsung.so
